@@ -1,4 +1,4 @@
-# Twitch-Plus-A-Personalized-Twitch-Resources-Recommendation-Engine
+# Twitch+: A Personalized Twitch Resources Recommendation Engine 
 
 Deploy to AWS App Runner: https://ejpi78r8kv.us-east-2.awsapprunner.com 
 
